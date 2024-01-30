@@ -1,0 +1,104 @@
+{
+  "movies": [
+    {
+      "name": "The Lord Of The Rings The Two Towers",
+      "id": "2",
+      "image": "https://i.hizliresim.com/ayir6so.jpg",
+      "date": "20 Aralık 2002",
+      "imdb": "8,8/10",
+      "time": "3 saat 55 dakika",
+      "categories": "Komedi",
+      "explanation": "Yüzüklerin Efendisi: Yüzük Kardeşliği (İngilizce: The Lord of the Rings: The Fellowship of the Ring), Peter Jackson'ın yönettiği Yüzüklerin Efendisi üçlemesinin birinci filmidir ve 2001 yılında gösterime girmiştir. J. R. R. Tolkien'in aynı adlı fantezi roman üçlemesinin birinci kitabından uyarlanmış olan film, üçlemenin sırasıyla diğer iki filmi olan İki Kule ve Kralın Dönüşü filmleri ile eş zamanlı olarak, Yeni Zelanda'da çekilmiştir. Birleşik bütçeleri yaklaşık 270 milyon $ olan filmlerin çekimleri 15 ay, çekim sonrası aşamaları da yaklaşık bir yıl sürmüştür."
+    },
+    {
+      "name": "The Lord Of The Rings The Return Of The King",
+      "id": "3",
+      "image": "https://i.hizliresim.com/9fdc86y.jpg",
+      "date": "19 Aralık 2003",
+      "imdb": "9/10",
+      "time": "3 saat 21 dakika",
+      "categories": "Fantezi",
+      "explanation": "Yüzüklerin Efendisi: Kralın Dönüşü (özgün adı: The Lord of the Rings: The Return of the King), Peter Jackson'ın yönetmenliğini yaptığı, J. R. R. Tolkien'in Yüzüklerin Efendisi kitaplarının ikinci ve üçüncü bölümlerinden uyarlanan 2003 yılında gösterime giren fantezi filmidir. Yüzüklerin Efendisi film serisinin Yüzük Kardeşliği ve İki Kule'den sonra üçüncü filmidir."
+    },
+    {
+      "id": "5",
+      "name": "Pulp Fiction",
+      "image": "https://i.hizliresim.com/du4vchm.jpg",
+      "date": "14 Nisan 1995",
+      "time": "2 saat 34 dakika",
+      "imdb": "8,9/10",
+      "explanation": "Ucuz Roman, Quentin Tarantino yönetmenliğindeki Roger Avary ile birlikte yazılmış, 1994 yapımı, kült kabul edilen bir filmdir. Ucuz Roman, En İyi Film dahil 7 dalda Oscar'a aday gösterilmiş ve En İyi Orijinal Senaryo Oscarı'nı almıştır.",
+      "categories": "Aksiyon"
+    },
+    {
+      "id": "6",
+      "name": "Recep İvedik",
+      "image": "https://i.hizliresim.com/b8a8mhq.jpg",
+      "date": "22 Şubat 2008",
+      "time": "1 saat 40 dakika",
+      "imdb": "4,9/10",
+      "explanation": "Recep İvedik, 22 Şubat 2008'de vizyona giren, Şahan Gökbakar'ın oynadığı sinema filmi. Dikkat Şahan Çıkabilir'in Recep İvedik karakterinin TV'de tutmasının üzerine çekilmiştir. Fragmanı, Mart 2008 itibarıyla YouTube adlı video paylaşım sitesinde yaklaşık 5 milyon 750 bin kez izlenen film, topladığı büyük ilginin ardından 21 Şubat 2008'de 230 kopyayla vizyona girmiştir. İlk üç gününde 791.536 kişi tarafından izlenen Recep İvedik, Türkiye'de ilk 3 gününde en çok izlenen filmler sıralamasında ikinci sıraya yerleşmiştir.[2] 17 günde 3 milyon 150 bin kişi tarafından izlenmiştir.",
+      "categories": "Komedi"
+    },
+    {
+      "name": "The Lord Of The Rings Fellowship Of The Ring",
+      "id": "1706257988787",
+      "image": "https://i.hizliresim.com/r0b2uss.jpg",
+      "date": "21 Aralık 2001",
+      "imdb": "8,9/10",
+      "time": "2 saat 58 dakika",
+      "categories": "Fantezi",
+      "explanation": "Yüzüklerin Efendisi: Yüzük Kardeşliği (İngilizce: The Lord of the Rings: The Fellowship of the Ring), Peter Jackson'ın yönettiği Yüzüklerin Efendisi üçlemesinin birinci filmidir ve 2001 yılında gösterime girmiştir. J. R. R. Tolkien'in aynı adlı fantezi roman üçlemesinin birinci kitabından uyarlanmış olan film, üçlemenin sırasıyla diğer iki filmi olan İki Kule ve Kralın Dönüşü filmleri ile eş zamanlı olarak, Yeni Zelanda'da çekilmiştir. Birleşik bütçeleri yaklaşık 270 milyon $ olan filmlerin çekimleri 15 ay, çekim sonrası aşamaları da yaklaşık bir yıl sürmüştür."
+    },
+    {
+      "id": "1706529595982",
+      "name": "The Shawshank Redemption",
+      "image": "https://i.hizliresim.com/6e86bk0.jpg",
+      "date": "10 Mart 1995",
+      "imdb": "9,1/10",
+      "time": "2 saat 22 dakika",
+      "categories": "Drama",
+      "explanation": "Stephen King'in Rita Hayworth ve Shawshank'in Kefareti adlı novellasından uyarlanan film, masumiyetini iddia etmesine rağmen karısını ve sevgilisini öldürdüğü gerekçesiyle Shawshank Devlet Cezaevi'nde yaklaşık 20 yılını geçiren bankacı Andy Dufresne'in hikâyesini anlatır. Cezaevinde kaldığı süre boyunca diğer mahkûmlardan Ellis Boyd \"Red\" Redding ile arkadaşlık kuran Dufresne, cezaevi müdürünün para aklama faaliyetlerine yardım etmeye başladıktan sonra gardiyanlar tarafından korunmaya başlanır."
+    },
+    {
+      "name": "Fast And Furious",
+      "id": "4",
+      "image": "https://i.hizliresim.com/ruulylg.jpg",
+      "date": " 2 Kasım 2001",
+      "imdb": "6,8/10",
+      "time": "1 saat 46 dakika",
+      "categories": "Aksiyon",
+      "explanation": "The Fast and the Furious, yönetmenliğini Rob Cohen’in yaptığı filmin başrollerinde Er Ryan'ı Kurtarmak ve Pitch Black filminden tanınan Vin Diesel, Paul Walker, Jordana Brewster ve Michelle Rodriguez rol almıştır. 38 milyon dolarlık bir bütçeyle çekilen filmin ABD’de gösterime girdiği hafta sonunda 41 milyon dolarlık bir hasılat elde etmiş ve toplamda 207 milyon dolar civarı bir hasılata ulaşmıştır."
+    },
+    {
+      "id": "7",
+      "name": "Klaus",
+      "image": "https://i.hizliresim.com/8av86cs.jpg",
+      "date": "8 Kasım 2019",
+      "time": "1 saat 37 dakika",
+      "imdb": "8,2/10",
+      "explanation": "Klaus, genç bir postacının yaşamına odaklanıyor. Smeerensburg'un yeni postacısı olan Jesper, oyuncaklarla dolu bir yerde tek başına yaşayan oyuncakçı Klaus ile tanışır. Oyuncak imalatçısı olan Klaus ile anlaşma yapmak isteyen Jesper, Klaus'tan eski oyuncaklarını bedava dağıtılmak üzere bağışlamasını ister. Teklifi kabul eden Klaus, oyuncakların dağıtılması için Jesper ile birlikte gitmeye karar verir. Birlikte oyuncak dağıtmaya başlayan Jesper ile Klaus, dünyanın en mutsuz yeri olan Smeerensburg'u değiştirmeye başlar. Ancak onların kasabaya neşe getirmesinden rahatsız olan bir takım insanlar vardır.",
+      "categories": "Animasyon"
+    },
+    {
+      "id": "1706599611260",
+      "name": "Despicable Me",
+      "image": "https://tr.web.img2.acsta.net/pictures/bzp/03/140623.jpg",
+      "date": "3 Eylül 2010",
+      "imdb": "7,6/10",
+      "time": "1 saat 35 dakika",
+      "categories": "Animasyon",
+      "explanation": "Çılgın Hırsız ya da özgün adıyla Despicable Me (Türkçe:Aşağılık Ben); 2010 yapımı ABD aile filmi, animasyon. Türkiye'de; Çılgın Hırsız filmi 3 Eylül 2010'da, devam filmi Çılgın Hırsız 2 ise 3 Temmuz 2013'te vizyona girmiştir."
+    },
+    {
+      "name": "Kung Fu Panda",
+      "id": "1706604807850",
+      "image": "https://upload.wikimedia.org/wikipedia/tr/7/76/Kungfupanda.jpg",
+      "date": "2 Mart 2008",
+      "imdb": "7,6/10",
+      "time": "1 saat 31 dakika",
+      "categories": "Animasyon",
+      "explanation": "Panda Po, kung fu hayranıdır. Ancak ailesine ait makarna restoranında çalışır ve bu spora pek yatkın sayılmaz. Hiç beklemediği bir anda eski bir kehanetin gereğini yerine getirmek için görevlendirilince Po’nun hayalleri gerçeğe dönüşür. O artık efsanevi Korkusuz Beşli’nin yanında kung fu dünyasına katılmıştır. Kung fu ustası Shifu’nun, Kaplan, Turna, Mantis, Engerek Yılanı ve Maymun ile yan yana dövüşme fırsatını bulmuştur. Ancak Tai Lung’un cezaevinden kaçarak önlerine çıkması üzerine Barış Vadisi halkını yaklaşan tehlikeye karşı savunmak Po’ya kalacaktır."
+    }
+  ]
+}
